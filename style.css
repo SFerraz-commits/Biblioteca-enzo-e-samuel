@@ -1,0 +1,9 @@
+#cabeca {
+    border: 2px solid black;
+}
+#main {
+    border: 1px solid gray;
+}
+#formulario {
+    border: 3px solid lightgreen;
+}
