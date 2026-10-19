@@ -1,0 +1,30 @@
+#cabeca {
+    border: 2px solid black;
+}
+#main {
+    border: 1px solid gray;
+}
+#formulario {
+    border: 3px solid lightgreen;
+}
+#main {
+    background-color: lightskyblue;
+}
+#l1 {
+    background-color: cornflowerblue;
+}
+#l2 {
+    background-color: tomato;
+}
+#l3 {
+    background-color: salmon;
+}
+#l4 {
+    background-color: darkorange;
+}
+#l5 {
+    background-color: firebrick;
+}
+#l6 {
+    background-color: slateblue;
+}
